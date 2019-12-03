@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PrimeNumbersRecyclerOlehSuprun</string>
+    <string name="edit_message">Input values</string>
+    <string name="button_send">Send</string>
+    <string name="btnstop">Stop</string>
+    <string name="btnstart">Start</string>
+</resources>
