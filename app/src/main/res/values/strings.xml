@@ -2,6 +2,11 @@
     <string name="app_name">PrimeNumbersRecyclerOlehSuprun</string>
     <string name="edit_message">Input values</string>
     <string name="button_send">Send</string>
-    <string name="btnstop">Stop</string>
+    <string name="btnstop">Stop/Clear</string>
     <string name="btnstart">Start</string>
+    <string name="percent_completion">Percent_completion</string>
+    <string name="maximum_prim_numbers">Maximum prim number </string>
+    <string name="number_primes">Number of primes</string>
+    <string name="input_value">Input value</string>
+    <string name="input_maximum_value">Input maximum value</string>
 </resources>
